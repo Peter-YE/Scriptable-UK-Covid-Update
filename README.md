@@ -8,4 +8,8 @@ Designed for Scriptable APP (iOS)
 
 To access more information related to the COVID-19 cases and vaccination progress in UK, after initialising the widget, press the widget and select 'Edit Widget - When Interacting - Open URL' and type https://coronavirus.data.gov.uk in the URL box.
 
+# Preview
+![image](https://github.com/Peter-YE/Scriptable-UK-Covid-Update/blob/main/preview1.jpeg)
+![image](https://github.com/Peter-YE/Scriptable-UK-Covid-Update/blob/main/preview2.jpeg)
+
 
